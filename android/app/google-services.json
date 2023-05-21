@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257868640531",
+    "project_id": "flutterbdjb",
+    "storage_bucket": "flutterbdjb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257868640531:android:def68324955853ff08eae6",
+        "android_client_info": {
+          "package_name": "flutterutec.edu.sv.flutter_firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257868640531-jba7lvt5vnd9ornl2plj7n1c3e28tmq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3e-a8Jt0vvqpRmfKctU_sEymyKFphSik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257868640531-jba7lvt5vnd9ornl2plj7n1c3e28tmq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
